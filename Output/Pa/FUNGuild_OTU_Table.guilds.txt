@@ -1,0 +1,50 @@
+Sl_no	OTU_ID	taxonomy	Taxon	Taxon Level	Trophic Mode	Guild	Growth Morphology	Trait	Confidence Ranking	Notes	Citation/Source
+438	438	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Penicillium oxalicum	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+336	336	Fungi Ascomycota Dothideomycetes Dothideales Dothideales_fam_Incertae_sedis Hortaea werneckii	Hortaea	13	Pathotroph	Plant Pathogen	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+302	302	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+288	288	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+270	270	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+248	248	Fungi Ascomycota Dothideomycetes Capnodiales Mycosphaerellaceae Phaeophleospora hymenocallidicola	Phaeophleospora	13	Pathotroph	Plant Pathogen	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+244	244	Fungi Ascomycota Dothideomycetes Capnodiales Cladosporiaceae Cladosporium halotolerans	Cladosporium	13	Pathotroph-Saprotroph-Symbiotroph	Animal Pathogen-Endophyte-Lichen Parasite-Plant Pathogen-Wood Saprotroph	Microfungus	NULL	Possible	NULL	Seehann G, et al. 1975. List of Fungi in Soft-Rot Tissue Tests. Institute fur Holzbiologie und Holzschutz, Bundesforschungsanstalt fur Forst - und Holzwirtshaft, Hamburg - Lohbrugge, Germany; Lawrey JD, Diederich P. 2016. URL: http://www.lichenicolous.net [24 May 2017]; http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+225	225	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+200	200	Fungi Ascomycota Dothideomycetes Dothideales Dothideales_fam_Incertae_sedis Hortaea werneckii	Hortaea	13	Pathotroph	Plant Pathogen	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+198	198	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+176	176	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+173	173	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+168	168	Fungi Ascomycota Dothideomycetes Capnodiales Cladosporiaceae Cladosporium dominicanum	Cladosporium	13	Pathotroph-Saprotroph-Symbiotroph	Animal Pathogen-Endophyte-Lichen Parasite-Plant Pathogen-Wood Saprotroph	Microfungus	NULL	Possible	NULL	Seehann G, et al. 1975. List of Fungi in Soft-Rot Tissue Tests. Institute fur Holzbiologie und Holzschutz, Bundesforschungsanstalt fur Forst - und Holzwirtshaft, Hamburg - Lohbrugge, Germany; Lawrey JD, Diederich P. 2016. URL: http://www.lichenicolous.net [24 May 2017]; http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+162	162	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+135	135	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+133	133	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+126	126	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus sydowii	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+115	115	Fungi Basidiomycota NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+94	94	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+74	74	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus proliferans	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+73	73	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus gracilis	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+67	67	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus sydowii	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+56	56	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+55	55	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+50	50	Fungi Ascomycota Dothideomycetes Pleosporales Pleosporaceae Alternaria alternata	Alternaria	13	Pathotroph-Saprotroph-Symbiotroph	Animal Pathogen-Endophyte-Plant Pathogen-Wood Saprotroph	Microfungus	Soft Rot	Possible	NULL	Duncan CG, Eslyn WE. 1966. Mycologia 58:642-664; Seehann G, et al. 1975. List of Fungi in Soft-Rot Tissue Tests. Institute fur Holzbiologie und Holzschutz, Bundesforschungsanstalt fur Forst - und Holzwirtshaft, Hamburg - Lohbrugge, Germany; Tedersoo L, et al. 2014. Science 346:125688
+47	47	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+44	44	Fungi Ascomycota Dothideomycetes Pleosporales Pleosporaceae Stemphylium herbarum	Stemphylium	13	Pathotroph-Saprotroph	Plant Pathogen-Wood Saprotroph	NULL	Soft Rot	Highly Probable	NULL	Duncan CG, Eslyn WE. 1966. Mycologia 58:642-664; Seehann G, et al. 1975. List of Fungi in Soft-Rot Tissue Tests. Institute fur Holzbiologie und Holzschutz, Bundesforschungsanstalt fur Forst - und Holzwirtshaft, Hamburg - Lohbrugge, Germany; Costa IPMW, et al. 2012. Mycotaxon 119:26; Tedersoo L, et al. 2014. Science 346:1256688; http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+30	30	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus penicillioides	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+28	28	Fungi Ascomycota Dothideomycetes Capnodiales Cladosporiaceae Cladosporium delicatulum	Cladosporium	13	Pathotroph-Saprotroph-Symbiotroph	Animal Pathogen-Endophyte-Lichen Parasite-Plant Pathogen-Wood Saprotroph	Microfungus	NULL	Possible	NULL	Seehann G, et al. 1975. List of Fungi in Soft-Rot Tissue Tests. Institute fur Holzbiologie und Holzschutz, Bundesforschungsanstalt fur Forst - und Holzwirtshaft, Hamburg - Lohbrugge, Germany; Lawrey JD, Diederich P. 2016. URL: http://www.lichenicolous.net [24 May 2017]; http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+26	26	Fungi Ascomycota Dothideomycetes Pleosporales Lophiostomataceae Lophiostoma cynaroidis	Lophiostoma	13	Saprotroph	Undefined Saprotroph	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+24	24	Fungi Basidiomycota NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+22	22	Fungi Ascomycota Eurotiomycetes Eurotiales Trichocomaceae Talaromyces stollii	Talaromyces	13	Saprotroph	Undefined Saprotroph	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+20	20	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+17	17	Fungi Ascomycota Dothideomycetes Pleosporales Massarinaceae Byssothecium NA	Byssothecium	13	Saprotroph	Undefined Saprotroph	NULL	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+16	16	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus ruber	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+15	15	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus sydowii	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+14	14	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Penicillium citrinum	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+13	13	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+12	12	Fungi Ascomycota Saccharomycetes Saccharomycetales Saccharomycetales_fam_Incertae_sedis Candida parapsilosis	Saccharomycetales	7	Saprotroph	Undefined Saprotroph	Yeast	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+10	10	Fungi Basidiomycota Agaricomycetes Polyporales Schizophyllaceae Schizophyllum commune	Schizophyllum	13	Saprotroph	Wood Saprotroph	NULL	White Rot	Highly Probable	NULL	Ahmada SS, Miles PG. 1970. Genetical Research 15:19-28
+9	9	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+8	8	Fungi Ascomycota Saccharomycetes Saccharomycetales Saccharomycetales_fam_Incertae_sedis Candida orthopsilosis	Saccharomycetales	7	Saprotroph	Undefined Saprotroph	Yeast	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+7	7	Fungi Ascomycota Eurotiomycetes Eurotiales Aspergillaceae Aspergillus penicillioides	Eurotiales	7	Saprotroph	Undefined Saprotroph	Microfungus	NULL	Possible	NULL	Sterkenburg E, et al. 2015. New Phytologist 207:1145-1158
+6	6	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+5	5	Fungi Basidiomycota Agaricomycetes Agaricales Physalacriaceae Flammulina velutipes	Physalacriaceae	9	Pathotroph-Saprotroph	Algal Parasite--Leaf Saprotroph-Wood Saprotroph	Agaricoid-Microfungus	NULL	Probable	Presumably saprobic, found on decaying leaves and wood. One genus is a parasite of marine algae (Cannon & Kirk 2007)	Cannon PF, Kirk PM. 2007. Fungal Families of the World. CAB International, Cambridge
+4	4	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-
+3	3	Fungi Basidiomycota Agaricomycetes Agaricales Physalacriaceae Flammulina velutipes	Physalacriaceae	9	Pathotroph-Saprotroph	Algal Parasite--Leaf Saprotroph-Wood Saprotroph	Agaricoid-Microfungus	NULL	Probable	Presumably saprobic, found on decaying leaves and wood. One genus is a parasite of marine algae (Cannon & Kirk 2007)	Cannon PF, Kirk PM. 2007. Fungal Families of the World. CAB International, Cambridge
+2	2	Fungi Ascomycota Dothideomycetes Capnodiales Mycosphaerellaceae Mycosphaerella molleriana	Mycosphaerella	13	Pathotroph	Plant Pathogen	Microfungus	NULL	Probable	NULL	Tedersoo L, et al. 2014. Science 346:1256688
+1	1	Fungi NA NA NA NA NA NA	-	-	-	-	-	-	-	Unassigned	-

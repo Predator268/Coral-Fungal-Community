@@ -1,0 +1,1 @@
+[1] "Bray-Curtis distance regressed against spatial distance (Multiple regression on matrices) (All Samples):"
